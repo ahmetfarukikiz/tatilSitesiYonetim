@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Comment CommentText="Kişi Formları&#xD;&#xA;">
+    <Position X="11.094" Y="10.17" Height="0.291" Width="1.163" />
+  </Comment>
+  <Comment CommentText="Ödeme Formları&#xD;&#xA;&#xD;&#xA;">
+    <Position X="6.274" Y="10.209" Height="0.291" Width="1.163" />
+  </Comment>
+  <Comment CommentText="Daire Formları&#xD;&#xA;">
+    <Position X="18.162" Y="10.065" Height="0.291" Width="1.163" />
+  </Comment>
+  <Comment CommentText="NOT BU CLASS DIAGRAMI HAZIR BIR EKLENTI ILE YAPILMISTIR KENDIM TARAFIMDAN CİZİLMIS HALI GONDERDIGIM DOSYA ICERISINDE MEVCUTTUR">
+    <Position X="16.724" Y="0.5" Height="1.588" Width="1.7" />
+  </Comment>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.Mekan">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Mekan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.Daire">
+    <Position X="0.75" Y="2.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>TemelSınıflar\Mekan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.HizmetYeri">
+    <Position X="6.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Mekan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.Havuz">
+    <Position X="5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Mekan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.Fitness">
+    <Position X="8.5" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Mekan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.Odeme" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgCAAAAQAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Odeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.Oturan">
+    <Position X="11.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAACAAEAAAAAAAAAAAAAAAAAGAAAAAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Oturan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.AileReisi">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Oturan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.TemelSınıflar.Misafir">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemelSınıflar\Oturan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.YönetimSınıfları.KisiYonetim">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAIAAAAgAAAACEAQAAAAAAAAAAAICgBAAAAAA=</HashCode>
+      <FileName>YönetimSınıfları\KisiYonetim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.YönetimSınıfları.MekanYonetim">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIIAAAAAAAAECEAAAAAAAEAAAAAIAABAAAAAA=</HashCode>
+      <FileName>YönetimSınıfları\MekanYonetim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.YönetimSınıfları.OdemeYonetim">
+    <Position X="24.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAIAAAAAAAAACEAAAAAAQCABAAAIABBAIAAQA=</HashCode>
+      <FileName>YönetimSınıfları\OdemeYonetim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.AyarlarForm">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACACABQAAACAAAgCCAAAAAAAAAAAAAAEAgA=</HashCode>
+      <FileName>AyarlarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.GirisMenuForm">
+    <Position X="2.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAABAAAACASAACAEA4QAJAEAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.DosyaIslemleri">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>DosyaIslemleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.ÖdemeFormları.OdemeDuzenleForm">
+    <Position X="5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAABABAACADABAAAACiAAACAQAAQAAQAEAAAAAMAAA=</HashCode>
+      <FileName>ÖdemeFormları\OdemeDuzenleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.ÖdemeFormları.OdemeYonetimForm">
+    <Position X="7.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EyABBABBCCQDgZJEUACAIIACBgiwSAAQAMAJAAAEDAQ=</HashCode>
+      <FileName>ÖdemeFormları\OdemeYonetimForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.KisiDuzenleForm">
+    <Position X="10" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EwABAABBEiQCQBABQACAAAACAAAgQBAIAAAAAABMAAA=</HashCode>
+      <FileName>KisiFormları\KisiDuzenleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.KisiYonetimForm">
+    <Position X="11.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EwSDJilAECQDAJdBQBCEAAASQABwQKSIAAAJAEMEFAQ=</HashCode>
+      <FileName>KisiFormları\KisiYonetimForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.HizmetFormları.HizmetYonetimForm">
+    <Position X="14.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EjDABABAACACwRqARACBAoEDQAAFKxAQIGhIBChJNAA=</HashCode>
+      <FileName>HizmetFormları\HizmetYonetimForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.DaireDuzenleForm">
+    <Position X="18.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEACACABAAQACkgAACAAAAAAAACBAAAAEPAAQ=</HashCode>
+      <FileName>DaireFormları\DaireDuzenleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.DaireGorForm">
+    <Position X="20" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAKACABAAAACAAAACAAAAQAAAAAAAAEAEAAA=</HashCode>
+      <FileName>DaireFormları\DaireGorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.DaireYonetimForm">
+    <Position X="16.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhgIBQBBQCEiEBEAUhCGgAACAAYAAACAIAgAAAEHAIA=</HashCode>
+      <FileName>DaireFormları\DaireYonetimForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.YönetimSınıfları.HizmetYonetim">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAEAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>YönetimSınıfları\HizmetYonetim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.YönetimSınıfları.HavuzYonetim" Collapsed="true">
+    <Position X="17.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAIAABAAAAAA=</HashCode>
+      <FileName>YönetimSınıfları\HizmetYonetim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_ndp_proje_yariyil2.YönetimSınıfları.FitnessYonetim" Collapsed="true">
+    <Position X="15.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAABAAAAAA=</HashCode>
+      <FileName>YönetimSınıfları\HizmetYonetim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
